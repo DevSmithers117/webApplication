@@ -1,0 +1,14 @@
+{
+  "phonebook": [
+    {
+      "name": "John",
+      "surname": "Doe",
+      "phoneNumber": "123-456-7890"
+    },
+    {
+      "name": "Jane",
+      "surname": "Smith",
+      "phoneNumber": "987-654-3210"
+    }
+  ]
+}
