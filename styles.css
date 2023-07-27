@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  #contactForm {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  #contactForm label,
+  #contactForm input,
+  #contactForm select,
+  #contactForm button {
+    margin-bottom: 10px;
+  }
+  
+  #contactForm label {
+    width: 100%;
+    font-weight: bold;
+  }
+  
+  #contactForm input,
+  #contactForm select {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  #contactForm select {
+    appearance: none;
+  }
+  
+  #contactForm button {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #contactForm button:hover {
+    background-color: #5197c2;
+  }
+  
+  #phonebook {
+    margin-top: 20px;
+  }
+  
+  #phonebook div {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  #phonebook div:last-child {
+    border-bottom: none;
+  }
+  
+ 
+  #searchBar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
